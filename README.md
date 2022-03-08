@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Xinyi2021
 - 👀 I’m interested in particle physics and cosmology
-- 🌱 I’m currently learning to better program in C++, python, mathematica
-- 💞️ I’m looking to collaborate on particle physics models ...
-- 📫 How to reach me: find me at inspire
+- 🌱 I’m currently programming in C++, python, mathematica
 
 <!---
 Xinyi2021/Xinyi2021 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
